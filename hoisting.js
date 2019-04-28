@@ -21,12 +21,10 @@ function sayMyName() {
   // fix the code in here:
 
 
-
-
   function sayMy() {
     console.log(name);
     var name = "Cricky";
 
   }
-  sayMy();
+  sayMyName();
 }
