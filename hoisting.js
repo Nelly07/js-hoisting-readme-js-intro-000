@@ -21,7 +21,7 @@ function sayMyName() {
 
   console.log(name);
   function sayMy() {
-  
+
     var name = "Cricky";
 
   }
